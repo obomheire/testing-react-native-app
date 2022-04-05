@@ -5,7 +5,6 @@ import LinearGradient from 'react-native-linear-gradient'
 import WeatherCoordinates from '../componentes/WeatherCoordinates'
 import WeatherCurrent from '../componentes/WeatherCurrent'
 import { Colors } from '../constants'
-WeatherCurrent;
 
 const HomeScreen = () => {
 

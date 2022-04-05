@@ -1,3 +1,13 @@
+import React from 'react'
+import { Text, View } from 'react-native'
+import AppNavigator from './screen/Index'
+
+const App = () => {
+  return <AppNavigator />
+}
+
+export default App
+
 /**
  * Sample React Native App
  * https://github.com/facebook/react-native
@@ -7,7 +17,7 @@
  *
  * @format
  */
-
+/*
 import React from 'react';
 import {
   SafeAreaView,
@@ -115,3 +125,4 @@ const styles = StyleSheet.create({
 });
 
 export default App;
+*/
